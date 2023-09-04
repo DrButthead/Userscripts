@@ -5,6 +5,7 @@
 // @include http://www.etsy.com/*
 // @include https://www.etsy.com/*
 // @run-at   document-idle
+// @icon     data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADkAAAA5CAMAAAC7xnO3AAAAMFBMVEXxZAT8zKv/+/j4j0f95NL6uIn6p27+9e72bxP7wZn2eiX82L/3hDT+7eH////1ZABJWqQLAAAA+0lEQVR42u3WwW7EIAxF0TgYMJg8///fNk0r0U6ZTHC76CJ3i44QEsIsv8h83fL/y9Baq7XKQ7W2kFKsJxKnnUl2S5MQM97L4WtlxZ4MZS8cku1b6YqUkTQFYC/kMpTpgrShFCC/lOtIGl+QeSgjNqdsStNSWrXejIzQi3J7kAzySYFXBqC4pDAQZ2SOMZZCxCuANCN7szLTnjLnQ7rO2XYbXdKSW4pbGqM4723S5JM9v2Q0nwyA+KRim3n7eg1QnySA5t74viXiuayjwWV1A5BOpRCOOPSFpaaMvfBchqjorfmjFZ8178yGPJeqRFR+Rnuqev+kbvm30t8bWk+oQLWL9JoAAAAASUVORK5CYII=
 // ==/UserScript==
 
 
